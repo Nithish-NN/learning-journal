@@ -64,13 +64,7 @@ The document mentions the following technologies and tools:
 17. **Big Data Technologies**
 18. **Cloud Computing Platforms**
 
-If you need further details about these technologies or their applications in the bootcamp, let me know!
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/62113682/99dc675b-7d26-4872-a999-d79cb8d4520f/Data-Analytics-Bootcamp-Syllabus_compressed.pdf
-
----
-Answer from Perplexity: pplx.ai/share
 
 ## 📚 Want to Follow Along?
 
