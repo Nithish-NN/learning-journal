@@ -9,10 +9,6 @@ Welcome to my **Daily Learning Journal** — a space where I document my journey
 This repository is dedicated to capturing my daily progress as I explore various topics in tech, data, and beyond. 
 Each day, I post notes, summaries, code snippets, or insights from what I learned — whether it's a new concept, a tool, or just a better understanding of something I already knew.
 
-## 🗂️ Structure
-
-The repo is organized in folders by **month** and then by **day**, like this:
-📁 2025 ┣ 📁 04-April ┃ ┣ 📄 day01.md ┃ ┣ 📄 day02.md ┃ ┗ ... ┗ 📁 05-May ┣ 📄 day01.md ┗ ...
 
 
 Each file includes:
