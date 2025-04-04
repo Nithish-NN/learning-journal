@@ -68,7 +68,7 @@ Feel free to star ⭐ the repo, fork it, or even start your own learning journal
 
 ## 🙌 Connect
 
-If you have questions or want to connect, reach out on [LinkedIn]((https://www.linkedin.com/in/nithish-nuthalapati/))
+If you have questions or want to connect, reach out on [LinkedIn](https://www.linkedin.com/in/nithish-nuthalapati/)
 
 ---
 
